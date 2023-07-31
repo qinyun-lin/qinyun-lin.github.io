@@ -1,76 +1,46 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Akademy, University of Gothenburg",
+      "position": "Senior Lecturer in Health Science Statistics",
+      "url": "https://www.gu.se/en/about/find-staff/qinyunlin",
+      "startDate": "2022-12-01"
+    },
+    {
+      "name": "Center for Spatial Data Science, University of Chicago",
+      "position": "Postdoc Scholar",
+      "url": "https://spatial.uchicago.edu/",
+      "startDate": "2020-01-01",
+      "endDate": "2022-11-30"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
+      "institution": "Department of Counseling, Educational Psychology & Special Education, College of Education, Michigan State University",
+      "url": "https://education.msu.edu/cepse/mqm/",
+      "studyType": "Ph.D. in Measurement and Quantitative Methods",
+      "startDate": "2015-08-01",
+      "endDate": "2019-12-09"
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Lund University, Lund, Sweden",
+      "studyType": "M.S. in Welfare Policies and Management",
+      "startDate": "2012-08-20",
+      "endDate": "2014-06-30"
+    },
+    {
+      "institution": "Fudan University, Shanghai, China",
+      "studyType": "B.A. in International Politics",
+      "startDate": "2008-09-01",
+      "endDate": "2012-06-30"
     }
   ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
+  "languages": [],
   "interests": [],
   "references": [],
   "projects": []
