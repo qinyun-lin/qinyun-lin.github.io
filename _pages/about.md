@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 林沁筠 (she/her/hers)
 
@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Email: qinyun.lin@gu.se</p>
     <p>Medicinaregatan 18A</p>
     <p>Gothenburg, Sweden</p>
 
