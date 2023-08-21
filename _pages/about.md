@@ -21,4 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm currently a Senior Lecturer in Health Science Statistics with School of Public Health and Community Medicine, Institute of Medicine, Sahlgrenska Akademy at University of Gothenburg
 
-Most broadly, I am a methodologist invested in humanizing quantitative research to better understand mechanisms underlying inequities, particularly health and educational disparities, and, ultimately, informing policymaking. Towards this, I strive to advance and expand existing quantitative methods and the interpretation of inferences by incorporating human interactions, social and spatial contexts, and mediating factors within these analyses.
+Most broadly, I am a methodologist invested in humanizing quantitative research to better understand mechanisms underlying inequities, particularly health and educational disparities, and, ultimately, informing policymaking. 
+
+Towards this, I strive to advance and expand existing quantitative methods and the interpretation of inferences by incorporating human interactions, social and spatial contexts, and mediating factors within these analyses.
