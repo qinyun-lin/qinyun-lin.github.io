@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Charlie
+description: a very serious project with a cute cat
+img: assets/img/1.jpg
+importance: 1
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

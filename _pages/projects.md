@@ -2,10 +2,10 @@
 layout: page
 title: Research Projects
 permalink: /projects/
-description: Cool research projects that I've been working on
+description: Some cool research projects in Health, Quantitative Methods, and Education
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Health, Quantitative Methods, Education, fun]
 horizontal: false
 ---
 
