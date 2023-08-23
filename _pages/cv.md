@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: Curriculum Vitae
-nav: false
-nav_order: 98
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+nav: true
+nav_order: 10
+cv_pdf: CV_QinyunLIN_Aug2023.pdf
+description: Please see more details in the pdf file. 
 ---

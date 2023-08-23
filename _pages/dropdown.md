@@ -2,12 +2,9 @@
 layout: page
 title: More
 nav: true
-nav_order: 10
+nav_order: 100
 dropdown: true
 children: 
-    - title: Curriculum Vitae
-      permalink: /cv/
-    - title: divider
     - title: GitHub Repositories
       permalink: /repositories/
 ---
