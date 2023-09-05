@@ -7,4 +7,7 @@ dropdown: true
 children: 
     - title: GitHub Repositories
       permalink: /repositories/
+    - title: divider
+    - title: Research Projects
+      permalink: /projects/
 ---

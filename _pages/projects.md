@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research Projects
+title: Research Projects 
 permalink: /projects/
-description: Some cool research projects in Health, Quantitative Methods, and Education
-nav: true
+description: Still Under Construction! Some cool research projects in Health, Quantitative Methods, and Education
+nav: false
 nav_order: 1
 display_categories: [Health, Quantitative Methods, Education, fun]
 horizontal: false
