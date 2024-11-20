@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Email: qinyun.lin@gu.se</p>
-    <p>Medicinaregatan 18A</p>
+    <p>Guldhedsgatan 5A, plan 3</p>
     <p>Gothenburg, Sweden</p>
 
 news: false  # includes a list of news items
